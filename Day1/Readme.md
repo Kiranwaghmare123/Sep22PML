@@ -1,6 +1,8 @@
 
 # Homework 
 
+## Numpy Exercise:
+
  1. Import the numpy package under the name `np` 
 
  2. Print the numpy version and the configuration 
