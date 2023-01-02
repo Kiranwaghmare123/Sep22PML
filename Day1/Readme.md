@@ -1,3 +1,101 @@
+# Practical Machine Learning 
+=================================================
+# Day 1: Introduction to Machine Learning
+=================================================
+Date: 02/01/2023
+#Topics:
+------------------
+	-Machine learning
+		-Algorithm types of Machine learnin
+		-Uses of Machine learning 
+		-Evaluating ML techniques 			
+		-Supervised and Unsupervised Learning 
+		-AI vs ML Vs DL
+		-Introduction to Scikit Learn 
+		-Performing ML using Scikit Learn 
+
+
+# Learning: the acquisition of skills
+
+   Task: T :
+   Performance : P
+   Experience : E
+
+# Challenges:
+-----------------
+
+    -Data quality
+    -Time consuming
+    -Model will be overfitting or underfitting
+    -Dimention reduction / Curse of dimensionality
+    -difficity in deployment
+
+    Algorithms: 
+        -many basic effective and efficient algorithms are available
+    Data:
+        -Large amount of data is available in on-line form.
+    Computing:
+        -Large amount of computational resources available.
+
+# ML Prerequisit for modelling:
+------------------------------
+    -Computer science
+    -Applied Maths
+    -Statistics
+    -Probability
+
+# Programming language:
+------------------------
+  -Python
+  -R
+
+# Framework and Libraries:
+-------------------------
+  Web development:
+  -(server side) Dajango, Flask, Cherrypy
+  -GUI: tkinter
+
+# Lib:
+------
+  -Numpy = scipy (scientific python) + matplotlib
+  -Pandas = dataset (series, dataframe)
+  -Matplotlib = graph plotting (scatter plot, ggplot, histogram..)
+  --------------
+  -Tensorflow
+  -keras
+
+
+# Machine Learning: 
+-----------------
+  -It is a concept which allows the machine to learn from examples 
+  and experiences, and that too without being explicitly programmed.
+
+# Types of learning:
+
+# Supervised:
+-----------------
+  -Labelled
+  -guidance will be provided
+  -explicitly learning model
+  -predicts the future outcomes
+  -train the algorithm on a labelled dataset 
+  and then we will set it to prediction
+  -Input/ Output
+  -classification, prediction
+  -Real life eg.
+
+# Unsupervised:
+------------------------
+  -Not labelled
+  -No guidance (self learning)
+  -identify the pattens, trends.
+  -can not predict 
+  -train an algorithms to find patterns
+  (similarities/ abnormalities)
+  -Input
+  -Cluster,anomaly detection
+  -Real life eg.
+
 
 # Homework 
 
@@ -42,3 +140,20 @@
  19. Consider a (6,7,8) shape array, what is the index (x,y,z) of the 100th element? 
  
  20. Create a checkerboard 8x8 matrix using the tile function 
+
+
+# Homework:
+-------------
+  Q1. Unique ML example in real life.
+  
+  Q2. Study Numpy Library.
+
+# Interview Questions:
+---------------------
+  1. What is meant by “learning” in the context of machine learning?
+  2. What is Machine Learning? Give example.
+  3. List out the types of machine learning.
+  4. What are the differences between supervised and unsupervised learning?
+  5. What is meant by supervised classification?
+  6. Explain supervised learning with an example.
+  7. What do you mean by reinforcement learning?
