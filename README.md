@@ -13,7 +13,7 @@ Practical Machine Language
             -Pandas
             -Matplotlib
             -Seaborn
-![image](https://user-images.githubusercontent.com/72081819/210325645-38ad2192-8817-4c54-a57e-ace22634b803.png
+![image](https://user-images.githubusercontent.com/72081819/210325888-51858a50-25eb-466c-b5e0-c735cc6ef63f.png)
    
 
   Numpy:
