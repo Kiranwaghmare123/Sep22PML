@@ -13,8 +13,8 @@ Practical Machine Language
             -Pandas
             -Matplotlib
             -Seaborn
-
-     
+![image](https://user-images.githubusercontent.com/72081819/210325645-38ad2192-8817-4c54-a57e-ace22634b803.png
+   
 
   Numpy:
   ------
@@ -43,6 +43,8 @@ Practical Machine Language
 
 # Life cycle of Machine Learning:
 ===============================
+![image](https://user-images.githubusercontent.com/72081819/210325458-5d5258e6-5927-473b-8548-ea38a159555e.png)
+
 
     1.Collection of data : soureces 
         -a.Identify the data sources
