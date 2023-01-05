@@ -53,9 +53,7 @@ replace('K',1000)
 
 # Homework
 
-Q1. Perform Data Preprocessing and EDA on Mercedesbenz dataset.
-
-Q2. Perform Data Preprocessing and EDA on Google dataset.
+Q1. Perform Data Preprocessing and EDA on Google dataset.
 
 
 # Interview Questions
