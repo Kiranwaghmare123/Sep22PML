@@ -2,8 +2,8 @@
 =================================================
 # Day 3: Data Pre-processing
 =================================================
-#Date: 05/01/2023
-#Topics:
+# Date: 05/01/2023
+# Topics:
 ------------------
 	-Data
 	-Types of Attributes
@@ -14,40 +14,42 @@
     -Knowledge Extraction
     
     
-#Types of Attributes:
+# Types of Attributes:
 ----------------------
 
-##1.Categorical feature
+## 1.Categorical feature
   -Nominal
   -Ordinal
   -Interval
   -Ratio
 
-##2. Numeric feature
+## 2. Numeric feature
     -Discrete
     -Continuous
 
-#Types of Datasets:
+# Types of Datasets:
 ---------------------
-##-Record
+## -Record
     -Data matrix
     -Document data
     -Transaction data
-##-Graph
+## -Graph
     -Web(WWW)
     -Molecular structure
-##-Ordered
+## -Ordered
     -Spatial data
     -Temporal data(time series data)
     -Sequential data
     -Genetic sequence data
     
-#Convertion of Categorical data into  Numeric data:
+# Convertion of Categorical data into  Numeric data:
 ---------------------------------------------------
-##Encoding:
+## Encoding:
 ----------
 
 replace('K',1000)
+
+==================================================================
 
 # Homework
 
