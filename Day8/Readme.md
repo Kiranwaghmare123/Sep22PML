@@ -10,7 +10,7 @@
 
 # Home work:
 
-#Problem statement on Titanic dataset:
+# Problem statement on Titanic dataset:
 
 Explore: How does each feature relate to whether a person survives/alives? 
 	Do the EDA in more detail than usual and explain the results! 
